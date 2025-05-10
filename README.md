@@ -10,16 +10,16 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Lizureee&color=63a4ff&style=for-the-badge)
-  [![Years Badge](https://badges.pufler.dev/years/Lizureee?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/Lizureee?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/Lizureee?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Lyzure&color=63a4ff&style=for-the-badge)
+  [![Years Badge](https://badges.pufler.dev/years/Lyzure?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/Lyzure?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/Lyzure?style=for-the-badge&color=63a4ff)](https://badges.pufler.dev)
   
 </div>
 
 <div align="center">
   <h2>🌟 About Me</h2>
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Lizureee&data=followers,repositories,stars,commits&theme=nautical"/>
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Lyzure&data=followers,repositories,stars,commits&theme=nautical"/>
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
   <a href="https://wa.me/6285646856646">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://github.com/Lizureee">
+  <a href="https://github.com/Lyzure">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <br>
@@ -48,13 +48,13 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=Lizureee&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Lyzure&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lizureee&theme=tokyonight" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lyzure&theme=tokyonight" width="100%">
   
   <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lizureee&theme=tokyonight" width="45%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lizureee&theme=tokyonight" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lyzure&theme=tokyonight" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lyzure&theme=tokyonight" width="45%">
   </p>
 </div>
 
