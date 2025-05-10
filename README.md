@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=I%20Muhammad%20Irwansyah&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20API%20Developer&descAlignY=55&descSize=15"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=I%20Muhammad%20Irwansyah&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20API%20Developer%20|%20Web%20Developer&descAlignY=55&descSize=15"/>
 </div>
 
 <p align="center">
@@ -37,11 +37,14 @@
 <div align="center">
   <h2>🛠️ Languages & Tools</h2>
   
+  ![HTML](https://img.shields.io/badge/HTML-E44C30?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&borderRadius=5&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&gap=13&line1=node.js,node.js,339933;javascript,javascript,F7DF1E;&line2=mysql,mysql,4479A1;git,git,F05032;" alt="Tech Stack" />
 </div>
